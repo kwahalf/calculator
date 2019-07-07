@@ -2,6 +2,8 @@
 
 A simple calculator for mobile phones
 
+![alt tag](Screenshot_1562330956.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
